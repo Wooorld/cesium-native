@@ -2,6 +2,7 @@
 
 #include "IJsonHandler.h"
 #include "Library.h"
+#include <string>
 
 #include <cstdint>
 
